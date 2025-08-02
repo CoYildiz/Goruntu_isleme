@@ -1,2 +1,3 @@
-BMP Image Processing Project
+## BMP Image Processing Project
+
 Bu proje, C dilinde BMP görüntü dosyalarını işlemek için geliştirilmiş bir dizi fonksiyon içerir. Proje, BMP dosyalarının dosya başlığı (BMPFH), bilgi başlığı (BMPIH), renk paleti (PALET) ve piksel verilerini (data) okuyarak çeşitli görüntü işleme işlemleri gerçekleştirir. İşlemler arasında negatif görüntü oluşturma, eşikleme (thresholding), palet değiştirme ve odev dosyasi yer alir.
